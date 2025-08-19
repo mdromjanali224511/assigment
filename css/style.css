@@ -60,6 +60,9 @@ display: inline-block;
    text-align: center;
    margin-top: 20px;
 }
+.dv{
+    margin-top: 20px;
+}
 .pta{
     color: darkgray;
     font-size: 15px;
@@ -73,4 +76,23 @@ display: inline-block;
 }
 .vidioo{
     width: 750px;
+}
+.html{
+    margin-left: -11px;
+    display: block;
+    padding: 20px 0;
+    background: #fff8ff;
+}
+.iconmain{
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    gap: 20px;
+}
+.buto{
+border: none;
+    background: white;
+}
+.js{
+    padding: 18px 0;
 }
