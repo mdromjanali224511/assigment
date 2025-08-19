@@ -1,0 +1,76 @@
+.width{
+    max-width: 700px;
+    
+}
+.head{
+    background-image: url(../assets/Hero-bg.png);
+}
+.main{
+    padding: 20px 0px;
+    margin: auto;
+    text-align: center;
+ 
+
+}
+.image{
+margin-bottom: 20px;
+
+display: inline-block;
+}
+.lekha{
+   font-weight: 998px;
+   font-size: 30px;
+   display: block;
+}
+.boton{
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    background: rgb(12, 12, 11);
+    border: none;
+    border-radius: 5px;
+}
+.ptag{
+    color: darkgray;
+    font-size: 15px;
+}
+.mai{
+    padding: 20px 30px;
+    margin: auto;
+    background: rgba(219, 221, 219, .1);
+}
+/* baner site */
+.doidare{
+    display: flex;
+   padding: 15px;
+   justify-content: space-around;
+}
+.hea{
+    margin-top: 30px;
+    display: block;
+    font-size: 20px;
+    line-height: 30px;
+}
+.buton{
+    padding: 10px 15px;
+    background: white;
+    
+}
+.first{
+   text-align: center;
+   margin-top: 20px;
+}
+.pta{
+    color: darkgray;
+    font-size: 15px;
+}
+.he{
+    font-size: 20px;
+}
+.section{
+    margin: auto;
+    max-width: 100%;
+}
+.vidioo{
+    width: 750px;
+}
